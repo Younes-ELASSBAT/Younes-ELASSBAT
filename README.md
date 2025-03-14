@@ -1,4 +1,4 @@
-# <h1 align="center">👨💻 Salut, je suis Ez-zouek Hamza! (Zawak) 🚀</h1>
+# <h1 align="center">👨💻 Salut, je suis EL ASSBAT Younes 🚀</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;Always+Learning" alt="Typing SVG" />
@@ -7,10 +7,10 @@
 ### 🧑💻 À propos de moi 🧑💻
 
 ```javascript
-const zawak = {
+const EL ASSBAT = {
   location: "Morocco 🇲🦁",
   role: "Software engineering student 👨💻✅",
-  passions: ["Frontend Development", "UI/UX Design", "Open Source"],
+  passions: ["Frontend Development", "Open Source"],
   currentlyLearning: "Java",
   funFact: "Pourquoi les développeurs préfèrent le dark mode? Parce que les bugs sont comme les cafards - ils se cachent dans l'obscurité! 🪲"
 };
@@ -46,11 +46,10 @@ const zawak = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ezzouek-a99aa327a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HAMZAZAWAK17)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zawa9_17/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamzaezzouek)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youneselassbat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-el-assbat-014603355/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Younes-ELASSBAT)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uness_5?igsh=MXE2aXdhajl0bTl4aA==)
 
 </div>
 

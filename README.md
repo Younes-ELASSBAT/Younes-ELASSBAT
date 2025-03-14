@@ -1,7 +1,7 @@
 # <h1 align="center">💻 IM EL ASSBAT Younes </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ### 💻 À propos de moi 💻
@@ -34,7 +34,7 @@ const EL ASSBAT = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Younes-ELASSBAT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ### 🌟 Projets en cours

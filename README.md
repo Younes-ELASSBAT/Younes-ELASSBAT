@@ -39,6 +39,8 @@ const EL ASSBAT = {
                 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"><br/>
                 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"><br/>
                 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"><br/>
+                <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"><br/>
+                <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"><br/>
               </div>
             </td>
             <td class="px-6 py-4">
@@ -61,12 +63,6 @@ const EL ASSBAT = {
             </td>
           </tr>
           <tr>
-            <td class="px-6 py-4">
-              <div class="flex items-center space-x-2">
-                <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"><br/>
-                <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"><br/>
-              </div>
-            </td>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-2">
                 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"><br/>

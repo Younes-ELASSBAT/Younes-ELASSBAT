@@ -19,7 +19,9 @@ const EL ASSBAT = {
 ### 🛠️ Tech Stack
 
 <div align="center">
+
 <tbody class="divide-y divide-gray-700">
+  <table>
   <tr>
     <!-- Frontend -->
     <td class="px-6 py-4">
@@ -140,6 +142,7 @@ const EL ASSBAT = {
       </div>
     </td>
   </tr>
+    <table/>
 </tbody>
 </div>
 

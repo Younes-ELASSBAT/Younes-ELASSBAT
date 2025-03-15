@@ -20,8 +20,20 @@ const EL ASSBAT = {
 
 <div align="center">
 
-
-<tbody class="divide-y divide-gray-700">
+<body class="bg-gray-900 text-white">
+  <div class="container mx-auto p-8">
+    <h1 class="text-4xl font-bold text-center mb-8">🛠️ Tech Stack</h1>
+    <div class="overflow-x-auto">
+      <table class="min-w-full bg-gray-800 border border-gray-700 rounded-lg">
+        <thead>
+          <tr class="bg-gray-700">
+            <th class="px-6 py-3 text-left text-sm font-semibold text-gray-300">Frontend</th>
+            <th class="px-6 py-3 text-left text-sm font-semibold text-gray-300">Backend</th>
+            <th class="px-6 py-3 text-left text-sm font-semibold text-gray-300">Database</th>
+            <th class="px-6 py-3 text-left text-sm font-semibold text-gray-300">Tools</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-700">
           <tr>
             <td class="px-6 py-4">
               <div class="flex items-center space-x-2">

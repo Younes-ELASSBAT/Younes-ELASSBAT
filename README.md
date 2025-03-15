@@ -20,130 +20,81 @@ const EL ASSBAT = {
 
 <div align="center">
 
+
 <tbody class="divide-y divide-gray-700">
-  <table>
-  <tr>
-    <!-- Frontend -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-        </div>
-      </div>
-    </td>
-    <!-- Backend -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-        </div>
-      </div>
-    </td>
-    <!-- Database -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-        </div>
-      </div>
-    </td>
-    <!-- Tools -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- Frontend -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
-        </div>
-      </div>
-    </td>
-    <!-- Backend -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-        </div>
-      </div>
-    </td>
-    <!-- Database -->
-    <td class="px-6 py-4"></td>
-    <!-- Tools -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- Frontend -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-        </div>
-      </div>
-    </td>
-    <!-- Backend -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-        </div>
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-J2EE-FF9900?style=flat&logo=j2ee&logoColor=white" alt="J2EE">
-        </div>
-      </div>
-    </td>
-    <!-- Database -->
-    <td class="px-6 py-4"></td>
-    <!-- Tools -->
-    <td class="px-6 py-4">
-      <div class="grid grid-cols-2 gap-2">
-        <div class="p-2 bg-gray-700 rounded-lg flex justify-center">
-          <img src="https://img.shields.io/badge/-UML-FF6F00?style=flat&logo=uml&logoColor=white" alt="UML">
-        </div>
-      </div>
-    </td>
-  </tr>
-    <table/>
-</tbody>
+          <tr>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+                <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+                <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+              </div>
+            </td>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+                <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+              </div>
+            </td>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+                <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+              </div>
+            </td>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+                <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+                <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
+              </div>
+            </td>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
+                <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+              </div>
+            </td>
+            <td class="px-6 py-4"></td>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+                <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+                <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+              </div>
+            </td>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+                <img src="https://img.shields.io/badge/-J2EE-FF9900?style=flat&logo=j2ee&logoColor=white" alt="J2EE">
+              </div>
+            </td>
+            <td class="px-6 py-4"></td>
+            <td class="px-6 py-4">
+              <div class="flex items-center space-x-2">
+                <img src="https://img.shields.io/badge/-UML-FF6F00?style=flat&logo=uml&logoColor=white" alt="UML">
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
 </div>
 
 ### 📊 GitHub Stats
